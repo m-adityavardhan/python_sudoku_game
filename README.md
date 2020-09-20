@@ -1,7 +1,7 @@
 # Sudoku-Solver
 This is a sudoku solver game using the backtracking algorithm and also implements hashing in it . It includes a graphical GUI library in python called pygame.
 
-Run sudoku.py to play sudoku.
+Run **sudoku.py** to play sudoku.
 
 # Instructions
 
@@ -9,4 +9,4 @@ Click a box and hit the number on your keybaord to pencil in a number. To confir
 
 # Requirements
 
-Need to install pygame module before running the sudoku.py
+Need to install **pygame** module before running the sudoku.py
