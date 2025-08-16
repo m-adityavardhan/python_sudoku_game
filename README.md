@@ -48,4 +48,3 @@ This is a graphical Sudoku game built with Python and Pygame. The game allows us
 - **"Reset" Button:** Load a new puzzle.
 
 
-
