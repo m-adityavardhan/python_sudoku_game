@@ -227,8 +227,8 @@ fail_time=0
 passed_time=1
 fail_pass=1
 flag=False
+screen=pygame.display.set_mode((800,600))
 while run:
-  screen=pygame.display.set_mode((800,600))
   screen.fill((255,255,255))
   draw_board(screen,50,50)
   
